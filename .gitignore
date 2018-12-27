@@ -6,3 +6,4 @@
 # Parcel stuff
 .cache/
 dist/
+node_modules/
