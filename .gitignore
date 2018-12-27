@@ -1,0 +1,8 @@
+# Mac stuff
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Parcel stuff
+.cache/
+dist/
